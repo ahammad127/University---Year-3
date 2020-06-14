@@ -1,1 +1,1 @@
-# University2
+The traffic simulation is a basic simulation which essentially assumes a oneway circular road. This was used to obtain multiple graphs of traffic flow vs car number density, with varying speed limits and probabilities of the cars to slow down.
